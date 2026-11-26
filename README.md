@@ -12,7 +12,6 @@ Course project (PQC). We test whether the superdense trick (measuring an X check
 | File | What it is |
 |---|---|
 | `PQC_Project_revised.ipynb` | All code and results: circuits, benchmarks, circuit search |
-| `docs/PQC_Project_Overview.docx` | Written overview of the project and its results |
 | `requirements.txt` | Package versions used |
 
 ## Notebook structure
